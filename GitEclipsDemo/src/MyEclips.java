@@ -6,6 +6,9 @@ public class MyEclips {
 		System.out.println("Hello pratik");
 		System.out.println("My First commit through Eclips");
 		System.out.println("MY Second commit through Eclips");
+		
+		//feature 1 branch changes
+		System.out.println("i am  feture1 ");
 	}
 
 }
