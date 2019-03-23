@@ -9,6 +9,8 @@ public class MyEclips {
 		
 		//feature 1 branch changes
 		System.out.println("i am  feture1 ");
+		// feature 2 branch changes
+		System.out.println("i am learning conflicts");
 	}
 
 }
